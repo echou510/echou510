@@ -19,7 +19,7 @@
 ### Statistics and Math
 [🔢Math88](#)
 ### USACO Competition
-
+[🐄CS91](#)[🐄CS92](#)
 <!--
 **echou510/echou510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
