@@ -9,7 +9,7 @@
 ### Java
 
 ### Python
-
+[🐍CS30](#)[🐍CS31](#)[🐍CS32](#)[CS33](#)
 ### C/C++
 
 ### Web Programming
