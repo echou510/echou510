@@ -3,23 +3,23 @@
 ](https://github.com/echou510/github-readme-stats)
 
 ### Berkeley
-[🐻UCB ](https://github.com/echou510/UC_Berkeley)
+[🐻UCB  ](https://github.com/echou510/UC_Berkeley)
 ### eC Academy
-[🌝eC ](http://www.ecode24.com)[😊Lab ](https://www.ecode24.com/moodle/)[🌐MOOC ](https://www.ecodehacker.com/)[⏩uTube ](https://www.youtube.com/c/EricChouPhD)
+[🌝eC  ](http://www.ecode24.com)[😊Lab  ](https://www.ecode24.com/moodle/)[🌐MOOC  ](https://www.ecodehacker.com/)[⏩uTube  ](https://www.youtube.com/c/EricChouPhD)
 ### Java
-[🍵CS21](#)[🍵CS22](#)[🍵CS23](#)[🍵CS24](#)
+[🍵CS21  ](#)[🍵CS22  ](#)[🍵CS23  ](#)[🍵CS24  ](#)
 ### Python
-[🐍CS30](#)[🐍CS31](#)[🐍CS32](#)[🐍CS33](#)
+[🐍CS30  ](#)[🐍CS31  ](#)[🐍CS32  ](#)[🐍CS33  ](#)
 ### C/C++
-[🔵CS41](#)[🔵CS42](#)[🔵CS43](#)[🔵CS45](#)[🔵CS45](#)
+[🔵CS41  ](#)[🔵CS42  ](#)[🔵CS43  ](#)[🔵CS45  ](#)[🔵CS45  ](#)
 ### Web Programming
-[🌏CS50](https://github.com/echou510/CS50_WebDesign)[🌏CS51](https://github.com/echou510/CS51APCSP)
+[🌏CS50  ](https://github.com/echou510/CS50_WebDesign)[🌏CS51  ](https://github.com/echou510/CS51APCSP)
 ### Lewis University
-[💒CS46K](#)[💒CS65K](https://github.com/echou510/CS75Robotics)
+[💒CS46K  ](#)[💒CS65K  ](https://github.com/echou510/CS75Robotics)
 ### Statistics and Math
-[📊Math88](#)
+[📊Math88  ](#)
 ### USACO Competition
-[🐄CS91](#)[🐄CS92](#)
+[🐄CS91  ](#)[🐄CS92  ](#)
 <!--
 **echou510/echou510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
