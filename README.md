@@ -5,13 +5,13 @@
 ### Berkeley
 [🐻UCB](https://github.com/echou510/UC_Berkeley)
 ### eC Academy
-[🌝eC](http://www.ecode24.com)[🙂Lab](#)[🌐MOOC](#)
+[🌝eC](http://www.ecode24.com)[🙂Lab](#)[🌐MOOC](#)[⏩uTube](#)
 ### Java
 [🍵CS21](#)[🍵CS22](#)[🍵CS23](#)[🍵CS24](#)
 ### Python
 [🐍CS30](#)[🐍CS31](#)[🐍CS32](#)[🐍CS33](#)
 ### C/C++
-
+[🔵CS41](#)[🔵CS42](#)[🔵CS43](#)[🔵CS45](#)[🔵CS45](#)
 ### Web Programming
 [🌏CS50](https://github.com/echou510/CS50_WebDesign)[🌏CS51](https://github.com/echou510/CS51APCSP)
 ### Lewis University
