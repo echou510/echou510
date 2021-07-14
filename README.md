@@ -17,7 +17,7 @@
 ### Lewis University
 [💒CS46K](#)[💒CS65K](https://github.com/echou510/CS75Robotics)
 ### Statistics and Math
-[🔢Math88](#)
+[📊Math88](#)
 ### USACO Competition
 [🐄CS91](#)[🐄CS92](#)
 <!--
