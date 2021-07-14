@@ -2,6 +2,23 @@
 [![Dr. Eric Chou GitHub Statistics](https://github-readme-stats.vercel.app/api?username=echou510&show_icons=true&theme=tokyonight))
 ](https://github.com/echou510/github-readme-stats)
 
+### Berkeley
+
+### eC Academy
+
+### Java
+
+### Python
+
+### C/C++
+
+### Web Programming
+
+### Lewis University
+
+### Statistics and Math
+
+### USACO Competition
 
 <!--
 **echou510/echou510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
