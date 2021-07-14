@@ -2,7 +2,9 @@
 [![Dr. Eric Chou GitHub Statistics](https://github-readme-stats.vercel.app/api?username=echou510&show_icons=true&theme=tokyonight))
 ](https://github.com/echou510/github-readme-stats)
 
-⚠Under-construction
+Note: ⚠Under-construction
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=ZLXNERUAT5XQJ)
 
 ### Berkeley
 [🐻UCB ](https://github.com/echou510/UC_Berkeley)
@@ -23,7 +25,6 @@
 ### USACO Competition
 [🐄CS91 ](https://github.com/echou510/CS91USACObronze)[🐄⚠CS92 ](https://github.com/echou510/CS92USACOsilver)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=ZLXNERUAT5XQJ)
 <!--
 **echou510/echou510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
