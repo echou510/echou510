@@ -3,9 +3,9 @@
 ](https://github.com/echou510/github-readme-stats)
 
 ### Berkeley
-[[UCB]](https://github.com/echou510/UC_Berkeley)
+[🐻UCB](https://github.com/echou510/UC_Berkeley)
 ### eC Academy
-[[eC]](http://www.ecode24.com)
+[🌝eC](http://www.ecode24.com)
 ### Java
 
 ### Python
@@ -13,7 +13,7 @@
 ### C/C++
 
 ### Web Programming
-[🌏CS50](https://github.com/echou510/CS50_WebDesign)
+[🌏CS50](https://github.com/echou510/CS50_WebDesign)[🌏CS51](https://github.com/echou510/CS51APCSP)
 ### Lewis University
 
 ### Statistics and Math
