@@ -1,6 +1,7 @@
 # Dr. Eric Chou - eC Academy - ecode24.com 👋
 [![Dr. Eric Chou GitHub Statistics](https://github-readme-stats.vercel.app/api?username=echou510&show_icons=true&theme=tokyonight))
 ](https://github.com/echou510/github-readme-stats)
+⚠Under-construction
 
 ### Berkeley
 [🐻UCB ](https://github.com/echou510/UC_Berkeley)
@@ -20,8 +21,6 @@
 [📊⚠Math88 ](https://github.com/echou510/Math88APStatistics)
 ### USACO Competition
 [🐄CS91 ](https://github.com/echou510/CS91USACObronze)[🐄⚠CS92 ](https://github.com/echou510/CS92USACOsilver)
-
-⚠Under-construction
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=ZLXNERUAT5XQJ)
 <!--
