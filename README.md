@@ -5,7 +5,7 @@
 ### Berkeley
 [🐻UCB](https://github.com/echou510/UC_Berkeley)
 ### eC Academy
-[🌝eC](http://www.ecode24.com)
+[🌝eC](http://www.ecode24.com)[🙂Lab](#)[🌐MOOC](#)
 ### Java
 [🍵CS21](#)[🍵CS22](#)[🍵CS23](#)[🍵CS24](#)
 ### Python
