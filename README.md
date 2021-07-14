@@ -7,9 +7,9 @@
 ### eC Academy
 [🌝eC](http://www.ecode24.com)
 ### Java
-
+[🍵CS21](#)[🍵CS22](#)[🍵CS23](#)[🍵CS24](#)
 ### Python
-[🐍CS30](#)[🐍CS31](#)[🐍CS32](#)[CS33](#)
+[🐍CS30](#)[🐍CS31](#)[🐍CS32](#)[🐍CS33](#)
 ### C/C++
 
 ### Web Programming
@@ -17,7 +17,7 @@
 ### Lewis University
 [💒CS46K](#)[💒CS65K](https://github.com/echou510/CS75Robotics)
 ### Statistics and Math
-
+[🔢Math88](#)
 ### USACO Competition
 
 <!--
