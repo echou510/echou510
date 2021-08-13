@@ -13,7 +13,7 @@
 ### Python
 [🐍CS30 ](https://github.com/echou510/CS30BriefPython)[🐍CS31 ](https://github.com/echou510/CS31Python1)[🐍CS32 ](https://github.com/echou510/CS32Python2)[🐍CS33 ](https://github.com/echou510/CS33Python3)
 ### C/C++
-[🔵CS41 ](#)[🔵CS42 ](https://github.com/echou510/CS42Cpp)[🔵CS43 ](https://github.com/echou510/CS43CppOOP)[🔵⚠CS44 ](#)[🔵⚠CS45 ](https://github.com/echou510/CS45CppDataStructures)
+[🔵CS41 ](#)[🔵CS42 ](https://github.com/echou510/CS42Cpp)[🔵CS43 ](https://github.com/echou510/CS43CppOOP)[🔵⚠CS44 ](#)[🔵CS45 ](https://github.com/echou510/CS45CppDataStructures)
 ### Web Programming
 [🌏CS50 ](https://github.com/echou510/CS50_WebDesign)[🌏CS51 ](https://github.com/echou510/CS51APCSP)
 ### Lewis University
