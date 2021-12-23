@@ -17,7 +17,7 @@
 ### Web Programming
 [🌏CS50 ](https://github.com/echou510/CS50_WebDesign)[🌏CS51 ](https://github.com/echou510/CS51APCSP)
 ### Lewis University
-[💒CS46K ](https://github.com/echou510/CS46ProgrammingLanguages)[💒CS65K ](https://github.com/echou510/CS75Robotics)[💒⚠CS74 ](https://github.com/echou510/CS74IntroRobotics)
+[💒CS46K ](https://github.com/echou510/CS46ProgrammingLanguages)[💒CS46K SICP](https://github.com/echou510/CS46ProgrammingLanguages)[💒CS65K ](https://github.com/echou510/CS75Robotics)[💒⚠CS74 ](https://github.com/echou510/CS74IntroRobotics)
 ### Statistics and Math
 [📊⚠Math88 ](https://github.com/echou510/Math88APStatistics)
 ### USACO Competition
