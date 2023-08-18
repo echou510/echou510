@@ -19,7 +19,7 @@
 ### Lewis University
 [💒CS46K ](https://github.com/echou510/CS46ProgrammingLanguages)[💒CS46K SICP](https://github.com/echou510/CS46SICP)[💒CS65K ](https://github.com/echou510/CS75Robotics)[💒⚠CS74 ](https://github.com/echou510/CS74IntroRobotics)
 ### Statistics and Math
-[📊Math81 ]()[📊⚠Math88 ](https://github.com/echou510/Math88APStatistics)
+[📊Math81 ](https://github.com/echou510/Math81APPrecalculus)[📊⚠Math88 ](https://github.com/echou510/Math88APStatistics)
 ### USACO Competition
 [🐄CS91 ](https://github.com/echou510/CS91USACObronze)[🐄⚠CS92 ](https://github.com/echou510/CS92USACOsilver)
 ### Textbooks
