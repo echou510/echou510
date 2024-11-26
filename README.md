@@ -8,6 +8,7 @@
 [🐻UCB ](https://github.com/echou510/UC_Berkeley)
 ### eC Academy
 [🌝eC ](http://www.ecode24.com)[😊Lab ](https://www.ecode24.com/moodle/)[🌐MOOC ](https://www.ecodehacker.com/)[⏩uTube ](https://www.youtube.com/c/EricChouPhD)
+[🌝eC1 ](http://www.ecode24.com)[🌝e2 ](http://www.ecode24.com)
 ### Java
 [🍵⚠CS20 ](https://github.com/echou510/CS20Greenfoot)[🍵CS21 ](https://github.com/echou510/CS21PreAPJava)[🍵CS22 ](https://github.com/echou510/CS22Java1)[🍵CS23 ](https://github.com/echou510/CS23Java2)[🍵CS24 ](https://github.com/echou510/CS24APCSAReview)[🍵⚠CS25 ](https://github.com/echou510/CS25Java3)
 ### Python
